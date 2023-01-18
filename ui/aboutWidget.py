@@ -25,7 +25,7 @@ class AboutWidget(QWidget):
         logo = QtSvg.QSvgWidget()
         self.ui.widgetLogo.setLayout(QVBoxLayout())
         self.ui.widgetLogo.layout().addWidget(logo)
-        logo.load(os.path.join(os.path.dirname(sys.argv[0]), 'resources/ITR_logo.svg'))
+        logo.load(os.path.join(os.path.dirname(sys.argv[0]), 'resources/ITR_logo.png'))
 
         self.reset()
 
