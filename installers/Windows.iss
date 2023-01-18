@@ -1,6 +1,6 @@
 [Setup]
 AppName=RMTS
-AppVersion=0.1.0
+AppVersion=0.1
 WizardStyle=modern
 DefaultDirName={autopf}\RMTS
 DefaultGroupName=RMTS
