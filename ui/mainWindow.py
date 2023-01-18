@@ -42,7 +42,7 @@ class MainWindow(QMainWindow):
         self.ui.setupUi(self)
         self.app = app
 
-        self.setWindowIcon(QIcon('resources/icon.png'))
+        self.setWindowIcon(QIcon('resources/ITR_logo.png'))
 
         self.ui.pageStart.beginSetup.connect(self.gotoSetupPage)
         self.ui.pageStart.recvResults.connect(self.gotoRecvResultsPage)
