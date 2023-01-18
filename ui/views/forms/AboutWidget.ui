@@ -55,7 +55,7 @@
    <item>
     <widget class="QLabel" name="labelCredits">
      <property name="text">
-      <string>Created by Andrew Reilley. Special thanks to Shreeyam Kacker,  Peter Emidy, and Harry Amadeo.</string>
+      <string>Created by Han Duong. Special thanks to Andrew Reilley.</string>
      </property>
      <property name="alignment">
       <set>Qt::AlignCenter</set>
@@ -72,7 +72,7 @@
    <item>
     <widget class="QLabel" name="label">
      <property name="text">
-      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Please read and understand the &lt;a href=&quot;https://github.com/reilleya/RMTS-Manual&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;manual&lt;/span&gt;&lt;/a&gt; before attempting to use the system!&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Please read and understand the &lt;a href=&quot;https://github.com/errorspaceengineer/VTS-Manual&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;manual&lt;/span&gt;&lt;/a&gt; before attempting to use the system!&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
      </property>
      <property name="alignment">
       <set>Qt::AlignCenter</set>
