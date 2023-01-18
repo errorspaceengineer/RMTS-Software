@@ -13,7 +13,7 @@ setup(
     version='0.1.0',
     license='GPLv3',
     packages=find_packages(),
-    url='https://github.com/reilleya/RMTS-Software',
+    url='https://github.com/errorspaceengineer/VTS-Software',
     description='Software to interface with the RMTS board over radio link',
     cmdclass=cmdclass
 )
