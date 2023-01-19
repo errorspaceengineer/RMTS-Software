@@ -32,5 +32,5 @@ exe = EXE(pyz,
           console=False )
 app = BUNDLE(exe,
              name='RMTS.app',
-             icon='../resources/icon.icns',
+             icon='../resources/ITR_logo.icns',
              bundle_identifier=None)
