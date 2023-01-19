@@ -27,7 +27,7 @@ exe = EXE(pyz,
           strip=False,
           upx=True,
           console=False,
-          icon='../resources/icon.ico'
+          icon='../resources/ITR_logo.ico'
 )
 coll = COLLECT(exe,
                a.binaries,
