@@ -1,9 +1,9 @@
-RMTS-Software
+VTS-Software
 ==========
 
 Overview
 --------
-This application allows users to conduct tests of solid rocket motors with their RMTS hardware, process the resulting data, and output files for further analysis and simulation.  
+This application allows users to conduct tests of solid rocket motors with their VTS hardware, process the resulting data, and output files for further analysis and simulation.  
 
 Download
 -------
@@ -11,11 +11,11 @@ The easiest way to use this software is to navigate to the 'releases' tab above 
 
 Running from Source
 --------------------
-The program is currently being developed using Python 3.8. The dependencies are listed in `requirements.txt`. Because the PyQt5 bindings are used for the GUI, Qt5 must also be installed.
+The program is currently being developed using Python 3.9. The dependencies are listed in `requirements.txt`. Because the PyQt5 bindings are used for the GUI, Qt5 must also be installed.
 
 The easiest way to build/run from source code is to clone the repository and install the required dependencies into a virtual enviornment:
 ```
-$ git clone https://github.com/errorspaceengineer/RMTS-Software
+$ git clone https://github.com/errorspaceengineer/VTS-Software
 $ cd RMTS-Software
 $ python3 -m venv .venv
 $ source .venv/bin/activate
