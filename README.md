@@ -1,4 +1,4 @@
-VTS-Software
+RMTS-Software
 ==========
 
 Overview
@@ -15,7 +15,7 @@ The program is currently being developed using Python 3.10. The dependencies are
 
 The easiest way to build/run from source code is to clone the repository and install the required dependencies into a virtual enviornment:
 ```
-$ git clone https://github.com/errorspaceengineer/VTS-Software
+$ git clone https://github.com/errorspaceengineer/RMTS-Software
 $ cd RMTS-Software
 $ python3 -m venv .venv
 $ source .venv/bin/activate
