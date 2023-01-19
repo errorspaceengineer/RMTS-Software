@@ -3,7 +3,7 @@ RMTS-Software
 
 Overview
 --------
-This application allows users to conduct tests of solid rocket motors with their VTS hardware, process the resulting data, and output files for further analysis and simulation.  
+This application allows users to conduct tests of solid rocket motors with their RMTS hardware, process the resulting data, and output files for further analysis and simulation.  
 
 Download
 -------
