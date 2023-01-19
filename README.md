@@ -5,10 +5,6 @@ Overview
 --------
 This application allows users to conduct tests of solid rocket motors with their RMTS hardware, process the resulting data, and output files for further analysis and simulation.  
 
-Download
--------
-The easiest way to use this software is to navigate to the 'releases' tab above and download latest version for your system. From there, unzip the file and run it. 
-
 Running from Source
 --------------------
 The program is currently being developed using Python 3.10. The dependencies are listed in `requirements.txt`. Because the PyQt5 bindings are used for the GUI, Qt5 must also be installed.
