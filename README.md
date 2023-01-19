@@ -11,7 +11,7 @@ The easiest way to use this software is to navigate to the 'releases' tab above 
 
 Running from Source
 --------------------
-The program is currently being developed using Python 3.9. The dependencies are listed in `requirements.txt`. Because the PyQt5 bindings are used for the GUI, Qt5 must also be installed.
+The program is currently being developed using Python 3.10. The dependencies are listed in `requirements.txt`. Because the PyQt5 bindings are used for the GUI, Qt5 must also be installed.
 
 The easiest way to build/run from source code is to clone the repository and install the required dependencies into a virtual enviornment:
 ```
