@@ -10,7 +10,7 @@ except ImportError:
 
 setup(
     name='RMTSI',
-    version='0.1.0',
+    version='0.3.2',
     license='GPLv3',
     packages=find_packages(),
     url='https://github.com/errorspaceengineer/RMTS-Software',
